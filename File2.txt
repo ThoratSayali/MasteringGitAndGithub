@@ -1,1 +1,2 @@
 This is second file
+Added some dummy contents to File 2
