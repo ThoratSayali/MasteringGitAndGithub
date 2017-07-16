@@ -1,1 +1,2 @@
 Added new file 3 to the repository
+Changes to File3.txt
