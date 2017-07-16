@@ -1,0 +1,1 @@
+Added new file B1 through branch1 normal merge
